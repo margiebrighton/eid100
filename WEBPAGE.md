@@ -6,9 +6,8 @@
 His name is Ron Sexsmith. Not only is he a wonderful singer and songwriter, but the man is blessed with a kind heart.
 I encourage everyone to check out his music, if you haven't already. This is a picture of when I had the pleasure of 
 meeting Ron at a recent concert.</p>
-<BODY BACKGROUND="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/531540_10152666588805346_156515080_n.jpg">
 <tr>
-<body bgcolor="#357ce7"> 
+<body bgcolor="#FFFFFF"> 
 <table>
 <th>His Music</th>
 <th>His Websites</th>
