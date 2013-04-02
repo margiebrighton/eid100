@@ -7,6 +7,7 @@ His name is Ron Sexsmith. Not only is he a wonderful singer and songwriter, but 
 I encourage everyone to check out his music, if you haven't already.</p>
 <BODY BACKGROUND="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-ash3/531540_10152666588805346_156515080_n.jpg">
 <tr>
+<table>
 <th>His Music</th>
 <th>His Websites</th>
 </tr>
