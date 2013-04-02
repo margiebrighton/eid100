@@ -6,7 +6,7 @@ eid100
 <p>Although this is an assignment for EID 100 at Ryerson, I'd like to take a moment to praise a favourite musician of mine.
 His name is Ron Sexsmith. Not only is he a wonderful singer and songwriter, but the man is blessed with a kind heart.
 I encourage everyone to check out his music, if you haven't already.</p>
-<body style="background:#80BFFF">
+<body style="background:#357EC7">
 <table border="1">
 <tr>
 <th>His Music</th>
@@ -18,7 +18,7 @@ I encourage everyone to check out his music, if you haven't already.</p>
 </tr>
 <tr>
 <td><a href="https://twitter.com/RonSexsmith">Twitter</a></td>
-<td><a href="http://www.ronsexsmith.com/">Twitter</a></td>
+<td><a href="http://www.ronsexsmith.com/">Official Site</a></td>
 </tr>
 </table><table border="1">
 <tr>
