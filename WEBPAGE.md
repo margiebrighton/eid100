@@ -1,4 +1,3 @@
-eid100
 
 <h1>Margarita Brighton's EID 100 Assignment</h1>
 <h2>You should listen to Ron Sexmith</h2>
@@ -6,7 +5,12 @@ eid100
 <p>Although this is an assignment for EID 100 at Ryerson, I'd like to take a moment to praise a favourite musician of mine.
 His name is Ron Sexsmith. Not only is he a wonderful singer and songwriter, but the man is blessed with a kind heart.
 I encourage everyone to check out his music, if you haven't already.</p>
-<body style="background:#357EC7">
+<html>
+<body bgcolor="#E6E6FA">
+<h1>Hello world!</h1>
+<p><a href="http://www.w3schools.com">Visit W3Schools.com!</a></p>
+</body>
+</html>
 <table border="1">
 <tr>
 <th>His Music</th>
@@ -24,5 +28,3 @@ I encourage everyone to check out his music, if you haven't already.</p>
 <tr>
 </table>
 ======
-
-eid 100
