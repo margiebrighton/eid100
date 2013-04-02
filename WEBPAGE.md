@@ -14,10 +14,10 @@ I encourage everyone to check out his music, if you haven't already.</p>
 </tr>
 <tr>
 <td><a href="http://www.youtube.com/watch?v=IppSS_-PFGM">Strawberry Blonde</a></td>
-<td><a href="http://www.youtube.com/watch?v=1DzLHWtGW0g">Nowhere To Go</a></td></td>
+<td><a href="https://twitter.com/RonSexsmith">Twitter</a></td>
 </tr>
 <tr>
-<td><a href="https://twitter.com/RonSexsmith">Twitter</a></td>
+<td><a href="http://www.youtube.com/watch?v=1DzLHWtGW0g">Nowhere To Go</a></td></td>
 <td><a href="http://www.ronsexsmith.com/">Official Site</a></td>
 </tr>
 </table><table border="1">
