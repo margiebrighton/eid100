@@ -7,7 +7,7 @@ His name is Ron Sexsmith. Not only is he a wonderful singer and songwriter, but 
 I encourage everyone to check out his music, if you haven't already. This is a picture of when I had the pleasure of 
 meeting Ron at a recent concert.</p>
 <tr>
-<body bgcolor="#FFFFFF"> 
+<body style="color: #000; background-color: rgb(153,255,255)">
 <table>
 <th>His Music</th>
 <th>His Websites</th>
